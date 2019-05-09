@@ -27,7 +27,7 @@ i {
   object-fit: cover;
   position: absolute;
   border: 5px solid;
-  border-radius: 20%;
+  border-radius: 0%;
   box-shadow: 5px 5px 10px grey;
 }
 
